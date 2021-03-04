@@ -67,10 +67,17 @@ footer img{
 	padding: 15px;
 
 }
-footer div{
+footer .A_props{
+	min-width: 200px;
 	width: 700px;
 	text-align: center;
 }
+footer h1{
+	color: rgba(43, 02, 42,1);
+	font-size: 2em;
+
+}
+
 hr{
 	padding: 80px;
 	border: none;
