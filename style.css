@@ -1,0 +1,77 @@
+
+
+.header-nav{
+	background-color: rgba(43, 02, 42,1);
+	padding: 20px 0 50px 0px;
+	margin-top: 15px;
+	width:100%;
+	border-bottom: 0.8em;
+	border-bottom-color: rgb(186, 159, 211);
+	border-bottom-style: solid;
+
+}
+.header-nav nav a{
+	padding-left: 80px;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+.contain .para-1,.para-2,.para-3{
+	width: 350px;
+	display: inline-block;
+	padding-left: 50px;
+/* css for formular*/
+
+}
+.formulaire{
+	text-align: center;
+}
+.formulaire input[type="text"],
+			input[type="mail"],
+			input[type="password"]{
+				padding: 15px;
+				margin: 10px;
+				width: 150px;
+			}
+.formulaire textarea{
+	width: 400px;
+	height: 150px;
+	margin-top: 20px;
+}
+.formulaire h1{
+	color: rgba(43, 02, 42,1);
+	font-size: 2em;
+}
+/* css for submit buttton*/
+.formulaire input[type="submit"]{
+	background:rgba(100,180,200,1);
+	font-size: 1.3em;
+	padding: 12px;
+	margin-top:20px;
+	width: 150px;
+	border-radius: 10px;
+}
+.contain .para-3{
+
+}
+
+.conatain{
+	width: 100%;
+}
+footer{
+	text-align: center;
+	margin-bottom: 50px;
+}
+footer img{
+	border-radius: 50px;
+	padding: 15px;
+
+}
+footer div{
+	width: 700px;
+	text-align: center;
+}
+hr{
+	padding: 80px;
+	border: none;
+}
