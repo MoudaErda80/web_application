@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,400,500,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,700;1,100;1,400&display=swap');
+
+html,body{
+	padding: O;
+	margin: 0;
+	font-family: 'Lato';
+}
+.inner{
+	width: 80%;
+	margin: auto;
+}
